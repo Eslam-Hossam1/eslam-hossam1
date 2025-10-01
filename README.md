@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Eslam-Hossam1](https://github.com/Eslam-Hossam1)
-
 - 💬 Ask me about **Flutter,Dart,Clean Architecture,SOLID**
 
 - 📫 How to reach me **eslamhossam.tech@gmail.com**
