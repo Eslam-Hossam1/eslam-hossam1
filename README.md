@@ -8,10 +8,9 @@
 
 
 <br>
-  <img align="right" alt="Coding" width="400" style="margin-left: 20px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 <div>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🔭 Currently working on **Amazing Flutter Projects**
 - 💡 Passionate about **Clean Code & Performance Optimization**
@@ -29,9 +28,35 @@
   </a>
 </p>
 
+<br>
+  <img  alt="Coding" width="400" style="margin-left: 20px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+
+
 </div>
 
 <br clear="all"/>
+
+## 🎨 Checkout My Portfolio
+
+<div align="center">
+
+<a href="https://eslam-hossam1.github.io/" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=🚀+Discover+My+Flutter+Projects;✨+Interactive+UI+%26+Animations;💼+Clean+Architecture+in+Action;🎯+Real-World+Solutions" alt="Portfolio Typing" />
+</a>
+
+<br>
+<br>
+<a href="https://eslam-hossam1.github.io/" target="_blank">
+
+<img src="https://camo.githubusercontent.com/3684ae618fe46e065048e3c0113b89e0e96ce2788c843e907d85316456e99fdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe29aa12532304558504c4f52452532304e4f57253230e29aa12d3636376565613f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d373634626132" height="60" width="300" alt="CTA Button" data-canonical-src="https://img.shields.io/badge/⚡%20EXPLORE%20NOW%20⚡-667eea?style=for-the-badge&amp;logoColor=white&amp;labelColor=764ba2" style="max-width: 100%; height: auto; max-height: 60px;">
+</a>
+<br>
+<br>
+
+**🌟 See my latest projects, creative solutions, and the magic of Flutter in action! 🌟**
+
+</div>
+
 
 <br>
 
@@ -82,29 +107,7 @@
 <br>
 
 
-## 🎨 Checkout My Portfolio
 
-<div align="center">
-
-<a href="https://eslam-hossam1.github.io/" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=667eea&center=true&vCenter=true&width=500&lines=🚀+Discover+My+Flutter+Projects;✨+Interactive+UI+%26+Animations;💼+Clean+Architecture+in+Action;🎯+Real-World+Solutions" alt="Portfolio Typing" />
-</a>
-
-<br>
-<br>
-<a href="https://eslam-hossam1.github.io/" target="_blank">
-
-<img src="https://camo.githubusercontent.com/3684ae618fe46e065048e3c0113b89e0e96ce2788c843e907d85316456e99fdd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652fe29aa12532304558504c4f52452532304e4f57253230e29aa12d3636376565613f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d373634626132" height="60" width="300" alt="CTA Button" data-canonical-src="https://img.shields.io/badge/⚡%20EXPLORE%20NOW%20⚡-667eea?style=for-the-badge&amp;logoColor=white&amp;labelColor=764ba2" style="max-width: 100%; height: auto; max-height: 60px;">
-</a>
-<br>
-<br>
-
-**🌟 See my latest projects, creative solutions, and the magic of Flutter in action! 🌟**
-
-</div>
-
-
-<br>
 
 
 
