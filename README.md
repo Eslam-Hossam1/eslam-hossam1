@@ -145,10 +145,12 @@
 
 <br>
 <br>
+<br>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+❤️;Let's+build+something+amazing+together!+🚀;Happy+Coding!+👨‍💻" alt="Footer Message" />
 
+<br>
 <br>
 <br>
 
