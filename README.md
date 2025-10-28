@@ -17,7 +17,6 @@
 - 💡 Passionate about **Clean Code & Performance Optimization**
 - 💬 Ask me about **Flutter, Dart, Clean Archtecture, SOLID**
 - 🌱 Always exploring new technologies and best practices
-- ⚡ Fun fact: I turn tea into code ☕️
 
 ### 🌐 Connect With Me
 
@@ -36,7 +35,7 @@
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
