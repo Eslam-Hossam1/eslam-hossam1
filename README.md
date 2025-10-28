@@ -147,10 +147,10 @@
 <br>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+❤️;Let's+build+something+amazing+together!+🚀;Happy+Coding!+👨‍💻" alt="Footer Message" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+❤️;Let's+build+something+amazing+together!+🚀;Happy+Coding!+👨‍💻" alt="Footer Message" />
 
 <br>
-
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:667eea,50:764ba2,100:f093fb" />
