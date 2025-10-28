@@ -101,7 +101,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Cross-Platform+Apps+with+Flutter;🎨+Crafting+Beautiful+%26+Responsive+UIs;⚡+BLoC+%26+Clean+Architecture+Expert" alt="Tech Stack Description" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=667eea&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Building+Cross-Platform+Apps+with+Flutter;🎨+Crafting+Beautiful+%26+Responsive+UIs;⚡+Clean+Code+%26+High+Performance" alt="Tech Stack Description" />
 </div>
 
 <br>
