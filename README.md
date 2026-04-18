@@ -101,7 +101,11 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/Eslam-Hossam1" target="_blank">
-        <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+          <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"/>
+        </picture>
       </a>
       <br>GitHub
     </td>
